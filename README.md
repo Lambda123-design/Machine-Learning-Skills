@@ -1,22 +1,24 @@
 # Machine-Learning-Skills
+
 **Following are just a overall skills of my Machine Learning Skills, on how I can add value to your organization:**
 
 1. Data Cleaning
    
-3. Exploratory Data Analysis
+2. Exploratory Data Analysis
    
-5. Feature Engineering - Handling Missing Values, Handling Imbalanced Datasets (Undersampling, Oversampling - SMOTE, SMOTE with TOMEK), Handling Outliers, Feature Encoding (Label Encoding, One-Hot Encoding, Target Guided Encoding)
+3. Feature Engineering - Handling Missing Values, Handling Imbalanced Datasets (Undersampling, Oversampling - SMOTE, SMOTE with TOMEK), Handling Outliers, Feature Encoding (Label Encoding, One-Hot Encoding, Target Guided Encoding)
 
-7. Feature Selection
+4. Feature Selection
    
-9. Feature Scaling
+5. Feature Scaling
     
-11. Model Building:
+6. Model Building:
 
 **Supervised Machine Learning:**
+
 (i) Linear Regression - Ordinary Least Squares, Ridge Regression, Lasso Regression, ElasticNet
 
-(ii) Logistic Regression - 
+(ii) Logistic Regression - One Versus Rest, Handling Imbalanced Datasets, ROC Curve
   
 7. Cross Validation:
    
@@ -30,6 +32,6 @@
 
 (v) Time Series Cross Validation
  
-9. HyperParameter Tuning
+8. HyperParameter Tuning
     
-11. Model Deployment
+9. Model Deployment
